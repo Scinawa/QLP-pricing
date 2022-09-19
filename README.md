@@ -5,3 +5,8 @@ Quantum computational finance: martingale asset pricing in a linear programming 
 - experiments.ipynb: a notebook that uses zerosums.py to plot some quantities related to the quantum algorithm
 - Plots paper.nb: a mathematica file with the numerical experiments of the paper
 - bounds for rho for derivative: a simple example that compute the quantity \rho (that we can find in the runtime for the quantum algorithm of the quantum zero sum algorithm used for pricing) for a simple derivative.
+
+
+
+Authors:
+Patrick Rebentrost and Alessandro Luongo
