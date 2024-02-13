@@ -9,4 +9,4 @@ Quantum computational finance: martingale asset pricing in a linear programming 
 
 
 Authors:
-Patrick Rebentrost and Alessandro Luongo
+Patrick Rebentrost, Alessandro Luongo, and Bin Cheng. 
